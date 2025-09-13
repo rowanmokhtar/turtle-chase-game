@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_chase = turtle_pkg.turtle_chase:main

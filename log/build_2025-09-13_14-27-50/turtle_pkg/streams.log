@@ -1,0 +1,24 @@
+[0.977s] Invoking command in '/home/rowan/task5_ws/src/turtle_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rowan/task5_ws/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rowan/task5_ws/install/turtle_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_pkg build --build-base /home/rowan/task5_ws/build/turtle_pkg/build install --record /home/rowan/task5_ws/build/turtle_pkg/install.log --single-version-externally-managed install_data
+[1.302s] running egg_info
+[1.327s] writing ../../build/turtle_pkg/turtle_pkg.egg-info/PKG-INFO
+[1.328s] writing dependency_links to ../../build/turtle_pkg/turtle_pkg.egg-info/dependency_links.txt
+[1.328s] writing entry points to ../../build/turtle_pkg/turtle_pkg.egg-info/entry_points.txt
+[1.328s] writing requirements to ../../build/turtle_pkg/turtle_pkg.egg-info/requires.txt
+[1.329s] writing top-level names to ../../build/turtle_pkg/turtle_pkg.egg-info/top_level.txt
+[1.378s] reading manifest file '../../build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[1.379s] writing manifest file '../../build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[1.379s] running build
+[1.380s] running build_py
+[1.380s] copying turtle_pkg/turtle_chase.py -> /home/rowan/task5_ws/build/turtle_pkg/build/lib/turtle_pkg
+[1.380s] running install
+[1.387s] running install_lib
+[1.413s] copying /home/rowan/task5_ws/build/turtle_pkg/build/lib/turtle_pkg/turtle_chase.py -> /home/rowan/task5_ws/install/turtle_pkg/lib/python3.12/site-packages/turtle_pkg
+[1.414s] byte-compiling /home/rowan/task5_ws/install/turtle_pkg/lib/python3.12/site-packages/turtle_pkg/turtle_chase.py to turtle_chase.cpython-312.pyc
+[1.415s] running install_data
+[1.415s] running install_egg_info
+[1.441s] removing '/home/rowan/task5_ws/install/turtle_pkg/lib/python3.12/site-packages/turtle_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[1.441s] Copying ../../build/turtle_pkg/turtle_pkg.egg-info to /home/rowan/task5_ws/install/turtle_pkg/lib/python3.12/site-packages/turtle_pkg-0.0.0-py3.12.egg-info
+[1.442s] running install_scripts
+[1.601s] Installing turtle_chase script to /home/rowan/task5_ws/install/turtle_pkg/lib/turtle_pkg
+[1.601s] writing list of installed files to '/home/rowan/task5_ws/build/turtle_pkg/install.log'
+[1.630s] Invoked command in '/home/rowan/task5_ws/src/turtle_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/rowan/task5_ws/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rowan/task5_ws/install/turtle_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_pkg build --build-base /home/rowan/task5_ws/build/turtle_pkg/build install --record /home/rowan/task5_ws/build/turtle_pkg/install.log --single-version-externally-managed install_data
